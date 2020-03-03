@@ -5,7 +5,7 @@ def countdown(number)
   puts "#{number} seconds!"
   number -= 1
 end
-if (number == 1) puts "1 second!"
+if (number == 1) then puts "1 second!"
 "HAPPY NEW YEAR!"
 end
 
