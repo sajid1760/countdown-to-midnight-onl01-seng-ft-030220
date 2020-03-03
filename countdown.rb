@@ -9,3 +9,5 @@ if (number == 1) puts "1 second!"
 end
 "HAPPY NEW YEAR!"
 end
+
+countdown(5)
